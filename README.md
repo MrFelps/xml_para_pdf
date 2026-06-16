@@ -40,8 +40,7 @@ A aplicação foi modularizada e blindada com as seguintes inovações:
 
 ## 📸 Screenshots
 
-*(Tire o print da tela do aplicativo aberto e adicione a imagem aqui)*
-<!-- Exemplo: ![Tela Principal](caminho_para_a_imagem.png) -->
+![Tela Principal](screenshot.png)
 
 ---
 
