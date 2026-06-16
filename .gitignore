@@ -1,0 +1,30 @@
+# Ambientes Virtuais Python
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de Build/Instaladores
+build/
+dist/
+*.exe
+*.spec
+Instalador_Gerador_DANFE.exe
+
+# Logs e Saídas Dinâmicas
+debug_xml.log
+xml_extraido.json
+historico.json
+*.pdf
+
+# Outros
+.vscode/
+.idea/
+.DS_Store
+Gerador DANFE/
