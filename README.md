@@ -40,7 +40,8 @@ A aplicação foi modularizada e blindada com as seguintes inovações:
 
 ## 📸 Screenshots
 
-![Tela Principal](screenshot.png)
+<img width="1000" height="684" alt="image" src="https://github.com/user-attachments/assets/883e381b-2968-49b4-86da-3168711474e6" />
+
 
 ---
 
